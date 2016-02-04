@@ -1,0 +1,12 @@
+Nasher Cafe
+ABP
+WaDuke
+Loop
+Panda
+Penn Pavilion
+McDonalds
+Blue Express
+student1001,3,3,-3,5,3,1,0,0
+student1002,0,1,5,-3,1,0,5,-3
+student1003,5,-3,3,0,3,0,3,-3
+student1004,0,1,0,0,1,0,5,0
